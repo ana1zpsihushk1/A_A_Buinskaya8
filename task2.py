@@ -1,2 +1,1 @@
-print("I love music!")
-print("I love piano!")
+print("I love piano music!")
